@@ -1,0 +1,8 @@
+{
+  "name": "EduVision AI - Digital Education Transformation",
+  "description": "A comprehensive AI-driven platform for academic and administrative excellence, featuring personalized learning paths, real-time analytics, and meeting intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
